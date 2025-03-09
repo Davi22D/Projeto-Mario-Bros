@@ -1,5 +1,4 @@
 <h1 align="center">Projeto Mario Bros</h1>
-<br>
 <h2 align="center">Vamos resolver o seu problema de encanamento 👷🔧</h2>
 
 ## Sobre o Projeto:
