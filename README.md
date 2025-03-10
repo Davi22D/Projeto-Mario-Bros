@@ -15,3 +15,6 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-javascript">
 </div>
 <br>
+<br>
+
+Made by Davi Izidoro do Nascimento :wave: [Entre em contato!](https://www.linkedin.com/in/davi-izidoro/)
